@@ -1,0 +1,7 @@
+### GET request users
+GET http://localhost:3000/users/123
+Accept: application/json
+
+### GET request error
+GET http://localhost:3000/error
+Accept: application/json
